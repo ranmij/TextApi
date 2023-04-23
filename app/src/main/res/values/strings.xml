@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextAPI</string>
+    <string name="start_server">Start Server</string>
+    <string name="server_not_running">Not running...</string>
+    <string name="server_status">Server Status:</string>
+    <string name="server_running">Running...</string>
+    <string name="cannot_start">Cannot start the server...</string>
+    <string name="cannot_start_ex">An error occurred...</string>
+    <string name="server_stop">Stop Server</string>
+    <string name="init_status">Status: Not running</string>
+</resources>
